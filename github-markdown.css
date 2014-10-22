@@ -45,14 +45,14 @@
 .markdown-body pre {
   overflow: auto;
 }
-
+/*
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body pre {
   font-family: monospace, monospace;
   font-size: 1em;
 }
-
+*/
 .markdown-body input {
   color: inherit;
   font: inherit;
@@ -185,15 +185,15 @@
   margin-left: 0;
 }
 
-.markdown-body code {
+/*.markdown-body code {
   font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
-}
+}*/
 
-.markdown-body pre {
+/*.markdown-body pre {
   margin-top: 0;
   margin-bottom: 0;
   font: 12px Consolas, "Liberation Mono", Menlo, Courier, monospace;
-}
+}*/
 
 .markdown-body kbd {
   background-color: #e7e7e7;
@@ -410,7 +410,7 @@
   box-sizing: border-box;
 }
 
-.markdown-body code {
+/*.markdown-body code {
   padding: 0;
   padding-top: 0.2em;
   padding-bottom: 0.2em;
@@ -433,7 +433,7 @@
   white-space: pre;
   background: transparent;
   border: 0;
-}
+}*/
 
 .markdown-body .highlight {
   margin-bottom: 16px;
@@ -457,7 +457,7 @@
   word-wrap: normal;
 }
 
-.markdown-body pre code {
+/*.markdown-body pre code {
   display: inline;
   max-width: initial;
   padding: 0;
@@ -473,7 +473,7 @@
 .markdown-body pre code:after {
   content: normal;
 }
-
+*/
 .markdown-body .highlight {
   background: #fff;
 }
