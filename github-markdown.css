@@ -316,7 +316,7 @@
 .markdown-body ol,
 .markdown-body dl,
 .markdown-body table,
-.markdown-body pre {
+/*.markdown-body pre*/ {
   margin-top: 0;
   margin-bottom: 16px;
 }
@@ -439,7 +439,7 @@
   margin-bottom: 16px;
 }
 
-.markdown-body .highlight pre,
+/*.markdown-body .highlight pre,
 .markdown-body pre {
   padding: 16px;
   overflow: auto;
@@ -455,7 +455,7 @@
 
 .markdown-body pre {
   word-wrap: normal;
-}
+}*/
 
 /*.markdown-body pre code {
   display: inline;
